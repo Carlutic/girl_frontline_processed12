@@ -1,0 +1,16 @@
+{
+  "defaultPreset": "lobby",
+  "c_MacqiatoSSR0102_slg_cloth_da.png": {
+    "normal": "maps/c_MacqiatoSSR0102_slg_cloth_da_n.png"
+  },
+  "c_MacqiatoSSR0102_slg_cloth02_da.png": {
+    "normal": "maps/c_MacqiatoSSR0102_slg_cloth02_da_n.png"
+  },
+  "stockingMode": "alpha",
+  "stockingSkinTexture": "socks_skin_d.png",
+  "materialOverrides": {
+    "Socks": {
+      "diffuse": "socks_d.png"
+    }
+  }
+}

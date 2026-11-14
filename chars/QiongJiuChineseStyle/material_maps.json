@@ -1,0 +1,15 @@
+{
+  "defaultPreset": "lobby",
+  "c_QiongjiuSSR0101_slg_body_d.png": {
+    "normal": "maps/c_QiongjiuSSR0101_slg_body_d_n.png"
+  },
+  "c_QiongjiuSSR0101_slg_cloth1_d.png": {
+    "normal": "maps/c_QiongjiuSSR0101_slg_cloth1_d_n.png"
+  },
+  "c_QiongjiuSSR0101_slg_cloth2_da.png": {
+    "normal": "maps/c_QiongjiuSSR0101_slg_cloth2_da_n.png"
+  },
+  "c_QiongjiuSSR0101_slg_weapon_d.png": {
+    "normal": "maps/c_QiongjiuSSR0101_slg_weapon_d_n.png"
+  }
+}

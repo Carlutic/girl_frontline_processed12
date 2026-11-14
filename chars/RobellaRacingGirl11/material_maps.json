@@ -1,0 +1,22 @@
+{
+  "defaultPreset": "lobby",
+  "c_RobellaSSR0101_slg_body_d.png": {
+    "normal": "maps/c_RobellaSSR0101_slg_body_d_n.png"
+  },
+  "c_robellassr0101_slg_cloth1_da.png": {
+    "normal": "maps/c_robellassr0101_slg_cloth1_da_n.png"
+  },
+  "c_robellassr0101_slg_cloth2_da.png": {
+    "normal": "maps/c_robellassr0101_slg_cloth2_da_n.png"
+  },
+  "c_RobellaSSR0101_slg_cloth3_d.png": {
+    "normal": "maps/c_RobellaSSR0101_slg_cloth3_d_n.png"
+  },
+  "stockingMode": "alpha",
+  "stockingSkinTexture": "socks_skin_d.png",
+  "materialOverrides": {
+    "BodySkin-SocksA": {
+      "diffuse": "socks_d.png"
+    }
+  }
+}
